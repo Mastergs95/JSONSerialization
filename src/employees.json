@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Jannette",
+    "contact_info": [
+      "jpendre@census.gov",
+      "jpendre@gmail.com"
+    ],
+    "gender": "Female",
+    "salary": 8435.35,
+    "active": true,
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90212
+    }
+  }
+]

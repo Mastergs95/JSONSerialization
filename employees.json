@@ -1,0 +1,33 @@
+[
+  {
+    "full_name": "John",
+    "employee_id": 1234567,
+    "active": false,
+    "designation": "Business Analyst"
+  },
+  {
+    "full_name": "Julia",
+    "committee": [
+      {
+        "name": "Salary",
+        "numMembers": 5
+      },
+      {
+        "name": "Promotions",
+        "numMembers": 4
+      }
+    ],
+    "employee_id": 12332,
+    "active": true,
+    "designation": "President"
+  },
+  {
+    "full_name": "Doris",
+    "committee": [{
+      "name": "Food",
+      "numMembers": 10
+    }],
+    "employee_id": 454754,
+    "active": true
+  }
+]
